@@ -1,0 +1,34 @@
+{
+  "GET - Listar todos os posts" : {
+    "transaction" : "GET - Listar todos os posts",
+    "sampleCount" : 30,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 152.53333333333333,
+    "medianResTime" : 94.0,
+    "minResTime" : 86.0,
+    "maxResTime" : 571.0,
+    "pct1ResTime" : 246.8,
+    "pct2ResTime" : 396.0999999999998,
+    "pct3ResTime" : 571.0,
+    "throughput" : 6.1893955023726015,
+    "receivedKBytesPerSec" : 173.75055607850214,
+    "sentKBytesPerSec" : 0.8159847586135753
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 30,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 152.53333333333333,
+    "medianResTime" : 94.0,
+    "minResTime" : 86.0,
+    "maxResTime" : 571.0,
+    "pct1ResTime" : 246.8,
+    "pct2ResTime" : 396.0999999999998,
+    "pct3ResTime" : 571.0,
+    "throughput" : 6.1893955023726015,
+    "receivedKBytesPerSec" : 173.75055607850214,
+    "sentKBytesPerSec" : 0.8159847586135753
+  }
+}
