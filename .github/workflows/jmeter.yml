@@ -27,6 +27,7 @@ jobs:
       - name: Rodar testes JMeter
         run: |
           rm -rf relatorio
+          rm -f resultados.jtl
           apache-jmeter-5.6.3/bin/jmeter -n \
             -t "Projeto Portfolio - JSONPlaceholder API.jmx" \
             -l resultados.jtl \
