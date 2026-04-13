@@ -36,3 +36,6 @@ Projeto de testes de performance desenvolvido com Apache JMeter, simulando cená
 
 ## Relatório
 O relatório HTML completo está disponível na pasta /relatorio
+
+## CI/CD
+Os testes rodam automaticamente via GitHub Actions a cada push no repositório.
